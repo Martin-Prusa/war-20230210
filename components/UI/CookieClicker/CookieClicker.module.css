@@ -1,0 +1,8 @@
+.coin {
+    margin: 20px;
+    transition: .2s;
+}
+
+.coin:hover {
+    transform: scale(1.05);
+}
